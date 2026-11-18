@@ -1,0 +1,22 @@
+# Maven build files
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# Environment and credentials
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
